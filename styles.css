@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+  }
+  
+  #generar-btn {
+    display: block;
+    margin: 0 auto;
+    font-size: 1.5em;
+    padding: 10px;
+  }
+  
+  #palabra {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 20px;
+  }
+  
